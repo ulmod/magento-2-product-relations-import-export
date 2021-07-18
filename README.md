@@ -2,7 +2,7 @@
 
 [Magento 2 Product Relations Import Export](https://www.ulmod.com/product-relations-export-import-for-magento-2.html)  is a Magento 2 extension that allows you to easily export and import up-sell, cross-sell, and related products.
 
-With Magento 2 Product Relations Import and Export, you can easily create product links/relation or transfer up-sell, cross-sell, and related products between Magento 2 sites or installations. 
+With Magento 2 Product Relations Import Export, you can easily create product links/relation or transfer up-sell, cross-sell, and related products between Magento 2 sites/ installations. 
 
 <a href="https://www.ulmod.com/product-relations-export-import-for-magento-2.html"><img width="205" src="https://www.ulmod.com/media/wysiwyg/um-download-now1.png"></a>
 
